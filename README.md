@@ -1,5 +1,5 @@
 # Detectron2 Cats Vs Dogs :cat: :dog:
-Train a detectron model on a new dataset (Coco formated). 
+Train a detectron model on a custom dataset (Coco formated). 
 
 ## Introduction
 * We use catvsdogs dataset which only has two classes: cats and dogs. We'll train a segmentation model from an existing model pre-trained on COCO dataset, available in detectron2's model zoo.
